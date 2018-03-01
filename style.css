@@ -1,0 +1,24 @@
+.timer {
+	border: 5px solid red;
+	width: 35px;
+	height: 35px;
+	font-size: 2rem;
+	text-align: center;
+
+}
+.exercise {
+	margin-bottom: 1rem;
+	font-size: 3rem;
+}
+
+.keyboard button {
+	padding: 1rem;
+	font-size: 1.125rem;
+}
+
+.result {
+	border: 5px solid green;
+	width: 60px;
+	height: 60px;
+	text-align: center;
+}
